@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive\Desktop\TheCSharpPlayersGuidePractice\TheCSharpPlayersGuidePractice\bin\Debug\net6.0\TheCSharpPlayersGuidePractice.exe
+C:\Users\ADMIN\OneDrive\Desktop\TheCSharpPlayersGuidePractice\TheCSharpPlayersGuidePractice\bin\Debug\net6.0\TheCSharpPlayersGuidePractice.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\TheCSharpPlayersGuidePractice\TheCSharpPlayersGuidePractice\bin\Debug\net6.0\TheCSharpPlayersGuidePractice.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Desktop\TheCSharpPlayersGuidePractice\TheCSharpPlayersGuidePractice\bin\Debug\net6.0\TheCSharpPlayersGuidePractice.dll
+C:\Users\ADMIN\OneDrive\Desktop\TheCSharpPlayersGuidePractice\TheCSharpPlayersGuidePractice\bin\Debug\net6.0\TheCSharpPlayersGuidePractice.pdb
+C:\Users\ADMIN\OneDrive\Desktop\TheCSharpPlayersGuidePractice\TheCSharpPlayersGuidePractice\obj\Debug\net6.0\TheCSharpPlayersGuidePractice.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\TheCSharpPlayersGuidePractice\TheCSharpPlayersGuidePractice\obj\Debug\net6.0\TheCSharpPlayersGuidePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\TheCSharpPlayersGuidePractice\TheCSharpPlayersGuidePractice\obj\Debug\net6.0\TheCSharpPlayersGuidePractice.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\TheCSharpPlayersGuidePractice\TheCSharpPlayersGuidePractice\obj\Debug\net6.0\TheCSharpPlayersGuidePractice.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\TheCSharpPlayersGuidePractice\TheCSharpPlayersGuidePractice\obj\Debug\net6.0\TheCSharpPlayersGuidePractice.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\TheCSharpPlayersGuidePractice\TheCSharpPlayersGuidePractice\obj\Debug\net6.0\TheCSharpPlayersGuidePractice.dll
+C:\Users\ADMIN\OneDrive\Desktop\TheCSharpPlayersGuidePractice\TheCSharpPlayersGuidePractice\obj\Debug\net6.0\refint\TheCSharpPlayersGuidePractice.dll
+C:\Users\ADMIN\OneDrive\Desktop\TheCSharpPlayersGuidePractice\TheCSharpPlayersGuidePractice\obj\Debug\net6.0\TheCSharpPlayersGuidePractice.pdb
+C:\Users\ADMIN\OneDrive\Desktop\TheCSharpPlayersGuidePractice\TheCSharpPlayersGuidePractice\obj\Debug\net6.0\TheCSharpPlayersGuidePractice.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Desktop\TheCSharpPlayersGuidePractice\TheCSharpPlayersGuidePractice\obj\Debug\net6.0\ref\TheCSharpPlayersGuidePractice.dll
